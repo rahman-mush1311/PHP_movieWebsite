@@ -9,4 +9,6 @@ by the help of phpmyadmin
 
 -->image files contains images used in the website.
 
+--> database folder contains database files used in here. there are two versions i worked.
+
 Video demonstration of the project will be uploaded soon.
