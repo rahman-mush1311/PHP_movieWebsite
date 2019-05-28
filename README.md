@@ -11,4 +11,5 @@ by the help of phpmyadmin
 
 --> database folder contains database files used in here. there are two versions i worked.
 
-Video demonstration of the project will be uploaded soon.
+Video demonstration of the project is: It is private google drive link
+https://drive.google.com/open?id=19yuN6qyiXRFfWQLFsXSf7iHRXkjHW36p
